@@ -1,0 +1,7 @@
+
+let data = [
+    {
+        "question":"",
+        "answer":""
+    }
+]
