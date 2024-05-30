@@ -173,7 +173,7 @@ gsap.from('.left_div',{
     trigger:'.left_div',
     toggleActions: 'play none none reverse',
     start:'top 70%',
-markers:true
+// markers:true
 
   }
 })
